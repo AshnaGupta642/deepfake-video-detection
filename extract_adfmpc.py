@@ -48,7 +48,11 @@ datasets = [
 
     ("UADFV_FAKE", 1),
 
-    ("UADFV_REAL", 0)
+    ("UADFV_REAL", 0),
+
+    ("CELEBDF_FAKE", 1),
+
+    ("CELEBDF_REAL", 0)
 
 ]
 

@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Datasets
+Celeb-DF-v2/
+Celeb_subset/
+faces/
+extracted_frames/
+
+# Generated features
+features/*.pt
+
+# Trained model
+best_model.pth
+
+# Temporary files
+structure.txt
